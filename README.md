@@ -5,7 +5,9 @@
 Ход Работы: После создания аккаунта на сайте GitHub, авторизуюсь
 
 После клонирую удалённый репозиторий на компьютер
+
 ![alt text](https://github.com/nikitatemkin2001/LR6/blob/Statement/screen/1.PNG?raw=true)
+
 Получаю историю операций для каждой из веток
 
 ![alt text](https://github.com/nikitatemkin2001/LR6/blob/Statement/screen/2.PNG?raw=true)
