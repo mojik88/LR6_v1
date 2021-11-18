@@ -52,4 +52,12 @@
 ![image](Screenshots/14.png)
 
 
-
+#Command log
+`git clone`
+`git pull`
+`git log`
+`git merge`
+`git add`
+`git commit`
+`git branch`
+`git checkout`
