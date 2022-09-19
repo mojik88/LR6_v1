@@ -13,3 +13,11 @@
 ![Image](/Screens/pic2.png)
 ![Image](/Screens/pic3.png)
 ![Image](/Screens/pic4.png)
+6. Получим историю операций для каждой из веток.
+![Image](/Screens/pic5.png)
+![Image](/Screens/pic6.png)
+7. Выполним слияние в ветку master, разрешив конфликт.
+![Image](/Screens/pic7.png)
+![Image](/Screens/pic8.png)
+8. Удалим побочную ветку после слияния.
+![Image](/Screens/pic9.png)
