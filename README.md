@@ -21,3 +21,12 @@
 ![Image](/Screens/pic8.png)
 8. Удалим побочную ветку после слияния.
 ![Image](/Screens/pic9.png)
+9. Сделаем некоторые изменения и зафиксируем их, оставляя комментарии.
+![Image](/Screens/pic10.png)
+![Image](/Screens/pic11.png)
+![Image](/Screens/pic12.png)
+![Image](/Screens/pic13.png)
+10. Сделаем откат коммита.
+![Image](/Screens/pic14.png)
+11. Создадим ветку для отчёта.
+12. Оформим отчёт в файле README.md, периодически делая коммиты.
