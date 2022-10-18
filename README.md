@@ -3,43 +3,43 @@
 ***
 
 Создан аккаунт на сайте GitHub, а также сделана копия в личное хранилище из https://github.com/Kurtyanik/LR6/ (Fork).
-![][Screen/screen1.png]
+![This is an image][Screen/screen1.png]
 Установлен Git и  настроен клиент git, введя имя пользователя (Группа
 Фамилия И.О.) и email. 
-![][Screen/screen2.png]
+![This is an image][Screen/screen2.png]
 Клонирован свой личный удалённый репозиторий на компьютер. 
-![][Screen/screen3.png]
+![This is an image][Screen/screen3.png]
 Добавлен файл через интерфейс GitHub. Подтянуты изменения в
 локальный репозиторий
-![][Screen/screen4.png]
+![This is an image][Screen/screen4.png]
 Получина историю операций для каждой из веток. 
 Ветка master
-![][Screen/screen5.png]
+![This is an image][Screen/screen5.png]
 Ветка branch1
-![][Screen/screen6.png]
+![This is an image][Screen/screen6.png]
 Выполнено слияние в ветку master.
-![][Screen/screen7.png]
+![This is an image][Screen/screen7.png]
 Конфликт разрешен, с помощью mergetool vimdiff.
-![][Screen/screen8.png]
-![][Screen/screen9.png]
+![This is an image][Screen/screen8.png]
+![This is an image][Screen/screen9.png]
 Итоговый результат сохранен и записан commit.
-![][Screen/screen10.png]
+![This is an image][Screen/screen10.png]
 Удалена побочная ветка после успешного слияния.
-![][Screen/screen11.png]
+![This is an image][Screen/screen11.png]
 Сделаны и зафиксированы изменения.
-![][Screen/screen12.png]
-![][Screen/screen13.png]
+![This is an image][Screen/screen12.png]
+![This is an image][Screen/screen13.png]
 Зафиксирован лог изменений.
-![][Screen/screen14.png]
+![This is an image][Screen/screen14.png]
 Сделан откат коммита.
-![][Screen/screen15.png]
+![This is an image][Screen/screen15.png]
 Создана ветка отчёта.
-![][Screen/screen16.png]
+![This is an image][Screen/screen16.png]
 Заполнение отчета в среде Brackets.
-![][Screen/screen17.png]
+![This is an image][Screen/screen17.png]
 Получена история операций в форматированном виде (сокращённый
 хэш + дата + имя автора + комментарий).
-![][Screen/screen18.png]
+![This is an image][Screen/screen18.png]
 ***
 
 
