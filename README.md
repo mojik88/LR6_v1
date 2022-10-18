@@ -3,7 +3,9 @@
 ***
 
 Создан аккаунт на сайте GitHub, а также сделана копия в личное хранилище из https://github.com/Kurtyanik/LR6/ (Fork).
+
 ![This is an image][Screen/screen1.png]
+
 Установлен Git и  настроен клиент git, введя имя пользователя (Группа
 Фамилия И.О.) и email. 
 ![This is an image][Screen/screen2.png]
