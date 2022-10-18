@@ -42,6 +42,7 @@
 ![][Screen/screen18.png]
 ***
 
+
 Лог команд
 ```
 $ cd Desktop/TestGit/
