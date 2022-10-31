@@ -60,3 +60,21 @@
 
 ![](screenshots/15.png)
 
+Лог команд
+$ cd Desktop/TestGit/
+$ git clone https://github.com/TanukiY/LR6
+$ cd LR6/
+$ git pull
+$ git log
+$ git checkout branch1
+$ git branch
+$ git merge branch1
+$ git mergetool
+$ git status
+$ git add .
+$ git commit -m "Merge"
+$ git branch -d branch1
+$ git commit -m "Add index.html"
+$ git commit -m "Add ABS.txt"
+$ git reset --hard HEAD~1
+$ git checkout -b otchet
