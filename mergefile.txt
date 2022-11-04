@@ -3,4 +3,3 @@
 очень
 важной
 информацией
-Test text for commit
