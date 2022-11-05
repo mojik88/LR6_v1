@@ -65,3 +65,6 @@ git commit -m "изменение n"
 + Составление отчета в README
 
   ![](https://github.com/barbolin-semyon/LR6/blob/master/screens/22.png)
+
++ Вывод изменение в краткой форме (git log --date=format:'%D' --pretty=format:"%h - %cd, %cn : %s")
+  ![](https://github.com/barbolin-semyon/LR6/blob/master/screens/23.png)
