@@ -55,4 +55,13 @@ git commit -m "изменение n"
 
 + Откат коммита (git reset HEAD~1) и проверка с помощью истории изменений (git log)
 
+
   ![](https://github.com/barbolin-semyon/LR6/blob/master/screens/19.png)
+
++ Созадние новой ветки git branch branch2
+
+  ![](https://github.com/barbolin-semyon/LR6/blob/master/screens/20.png)
+  
++ Составление отчета в README
+
+  ![](https://github.com/barbolin-semyon/LR6/blob/master/screens/22.png)
