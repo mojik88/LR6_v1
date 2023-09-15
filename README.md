@@ -19,4 +19,5 @@
 ### 13 пункт
 ![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/SSrkfVc6yZ4.jpg?raw=true "13")
 ### 14 пункт
-![Alt-Текст] (https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/SSrkfVc6yZ4.jpg?raw=true "14")
+![Alt-Текст](https://github.com/layhtman/LR6/blob/branch_otchet/screenshots/G9voSHNYWNQ.jpg?raw=true "14")
+### 15 пункт
