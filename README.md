@@ -2,56 +2,56 @@
 ### Цель лабораторной работы
 Изучение базовых возможностей системы управления версиями, опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием. 
 ### Ход работы
-1) Создал аккаунт на GitHub (рис. 1).
-2)	Сделал копию (fork) в личное хранилище из [репозитория](https://github.com/Kurtyanik/LR6/) (рис. 2).
+1) Создал аккаунт на GitHub ([рис. 1](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%201.png)).
+2)	Сделал копию (fork) в личное хранилище из [репозитория](https://github.com/Kurtyanik/LR6/) ([рис. 2](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%202.png)).
 3)	Установил Git.
-4)	После установки настроил клиент git, введя имя пользователя (4217 Mahkamov Sh.S.) и email (рис. 3).
+4)	После установки настроил клиент git, введя имя пользователя (4217 Mahkamov Sh.S.) и email ([рис. 3](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%203.png)).
 ```sh
 git config --global user.email "the.sherz.03@gmail.com"
 git config --global user.name "4217 Mahkamov Sh.S."
 
 ```
-5)	Клонировал свой личный удалённый репозиторий на компьютер (рис. 4).
+5)	Клонировал свой личный удалённый репозиторий на компьютер ([рис. 4](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%204.png)).
 ```sh
 git clone https://github.com/QuaRaion/LR6
 ```
-6)	Добавил файл `text.txt` через интерфейс GitHub. Подтянул изменения в локальный репозиторий (рис. 5).
+6)	Добавил файл `text.txt` через интерфейс GitHub. Подтянул изменения в локальный репозиторий ([рис. 5](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%205.png)).
 ```sh
 git pull
 ```
-7) Получил историю операций для ветки `master` (рис. 6) и `branch1` (рис. 7).
+7) Получил историю операций для ветки `master` ([рис. 6](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%206.png)) и `branch1` ([рис. 7](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%20%207.png)).
 ```sh
 git log
 git log origin/branch1
 ```
-8)  Посмотрел последние изменения (рис. 8).
+8)  Посмотрел последние изменения ([рис. 8](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%20%208.png)).
 ```sh
 git branch -v
 ```
-9) Выполнил слияние в ветку `master`, разрешив конфликт (рис. 9-10).
+9) Выполнил слияние в ветку `master`, разрешив конфликт ([рис. 9](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%20%209.png), [рис. 10](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%2010.png)).
 ```sh
 git merge origin/branch1
 ```
-10) Удалил побочную ветку после успешного слияния (рис. 11).
+10) Удалил побочную ветку после успешного слияния ([рис. 11](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%2011.png)).
 ```sh
 git branch -d branch1
 ```
-11) Сделал изменения и зафиксировал их, оставляя комментарии несколько раз (рис. 12).
+11) Сделал изменения и зафиксировал их, оставляя комментарии несколько раз ([рис. 12](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%20%2012.png)).
 ```sh
 git add .
 git status
 git commit -m "comment"
 ```
-12) Сделал откат коммита (рис. 13)
+12) Сделал откат коммита ([рис. 13](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%20%2013.png))
 ```sh
 git reset --haard HEAD~
 ```
-13) Создал ветку для отчета (рис. 14).
+13) Создал ветку для отчета ([рис. 14](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%20%2014.png)).
 ```sh
 git branch new_branch
 ```
 14) Оформил отчет в файле `README.md`
-15) Получил историю операций в форматированном виде (рис. 15).
+15) Получил историю операций в форматированном виде ([рис. 15](https://github.com/QuaRaion/LR6/blob/new_branch/Photo/Рисунок%20%2015.png)).
 ```sh
 git log --pretty=format:'%h %cd | %an | %s' --date=format:'%F %R'
 ```
