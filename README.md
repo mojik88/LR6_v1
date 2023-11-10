@@ -8,6 +8,8 @@
 4)	После установки настроил клиент git, введя имя пользователя (4217 Mahkamov Sh.S.) и email (рис. 3).
 ```sh
 git config --global user.email "the.sherz.03@gmail.com"
+git config --global user.name "4217 Mahkamov Sh.S."
+
 ```
 5)	Клонировал свой личный удалённый репозиторий на компьютер (рис. 4).
 ```sh
