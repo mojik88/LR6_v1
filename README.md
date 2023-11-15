@@ -11,7 +11,7 @@
 
 2. Сделать копию в личное хранилище из https://github.com/Kurtyanik/LR6/ (Fork).
 
-   ![Alt text](image-1.png)
+   ![Alt text](screens/image-1.png)
 
 3. Установить Git (https://git-scm.com/)
 
@@ -19,74 +19,74 @@
 
    Настройка производится с использованием команд git config --global user.name и git config --global user.email
 
-   ![Alt text](image-2.png)
+   ![Alt text](screens/image-2.png)
 
 5. Клонировать свой личный удалённый репозиторий на компьютер.
 
    Клонирование удаленного репозитория делается, используя команду git clone.
 
-   ![Alt text](image-3.png)
+   ![Alt text](screens/image-3.png)
 
 6. Добавить файл через интерфейс GitHub. Подтянуть изменения в локальный репозиторий.
 
    Для дальнейшей работы с файлами осуществляется переход в директорию LR6 командой cd LR6.
 
-   ![Alt text](image-4.png)
+   ![Alt text](screens/image-4.png)
 
 7. Получить историю операций для каждой из веток.
 
    Просмотр истории операций ветки master, используя команду git log.
 
-   ![Alt text](image-5.png)
-   ![Alt text](image-6.png)
+   ![Alt text](screens/image-5.png)
+   ![Alt text](screens/image-6.png)
 
 8. Просмотреть последние изменения.
 
    Просмотр последних изменений с помощью команды git log -p.
 
-   ![Alt text](image-7.png)
+   ![Alt text](screens/image-7.png)
 
 9. Выполнить слияние в ветку master, разрешив конфликт (можно использовать специальные редакторы или графический интерфейс git).
 
-   ![Alt text](image-8.png)
+   ![Alt text](screens/image-8.png)
 
    Так как файл mergefile.txt не отслеживается, используется команда git status для отображения состояния рабочего каталога.
 
-   ![Alt text](image-9.png)
+   ![Alt text](screens/image-9.png)
 
    Добавление файла mergefile.txt с помощью команды git add.
 
-   ![Alt text](image-10.png)
+   ![Alt text](screens/image-10.png)
 
    Конфликт разрешен, с помощью команды git commit -m добавляется коммит со словом "Branch"
 
-   ![Alt text](image-11.png)
+   ![Alt text](screens/image-11.png)
 
 10. Удалить побочную ветку после успешного слияния.
 
     Удаление побочной ветки осуществляется при помощи команды git branch -d.
 
-    ![Alt text](image-12.png)
+    ![Alt text](screens/image-12.png)
 
 11. Сделать изменения и зафиксировать их, оставляя комментарии, несколько раз.
 
     Для создания комментариев в текстовом файле используется команда echo "текст" > имя_файла.txt.
 
-    ![Alt text](image-13.png)
-    ![Alt text](image-14.png)
-    ![Alt text](image-15.png)
-    ![Alt text](image-16.png)
+    ![Alt text](screens/image-13.png)
+    ![Alt text](screens/image-14.png)
+    ![Alt text](screens/image-15.png)
+    ![Alt text](screens/image-16.png)
     Просмотр комментариев, используя команду git log.
 
-    ![Alt text](image-17.png)
+    ![Alt text](screens/image-17.png)
 
 12. Сделать откат коммита.
 
-    ![Alt text](image-18.png)
+    ![Alt text](screens/image-18.png)
 
 13. Создать ветку для отчёта.
 
-    ![Alt text](image-19.png)
+    ![Alt text](screens/image-19.png)
 
 14. Начать оформлять отчёт в файле README.md
 
@@ -94,10 +94,10 @@
 
 15. Получить историю операций в форматированном виде (сокращённый хэш + дата + имя автора + комментарий). Добавить её в отчёт и сделать финальную фиксацию изменений.
 
-    ![Alt text](image-20.png)
+    ![Alt text](screens/image-20.png)
 
 16. Отправить локальные изменения в сетевое хранилище GitHub.
 
     Отправка изменений осуществляется командой git push.
 
-    ![Alt text](image-21.png)
+    ![Alt text](screens/image-21.png)
