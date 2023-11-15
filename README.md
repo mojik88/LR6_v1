@@ -7,7 +7,7 @@
 
 1. Создать аккаунт на сайте GitHub
 
-   ![Alt text](image.png)
+   ![Alt text](screens/image.png)
 
 2. Сделать копию в личное хранилище из https://github.com/Kurtyanik/LR6/ (Fork).
 
