@@ -6,37 +6,37 @@
 изучение базовых возможностей системы управления версиями, опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.
 ---------
 ### Создание аккаунта и настройка ПО
-![Alt-Текст](https://github.com/layhtman/LR6/tree/branch_otchet/screenshots/s1.jpeg?raw=true "1-4")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/branch_otchet/screenshots/s1.jpeg?raw=true "1-4")
 ---------
 ### Клонирование репозитория и создание в нем файла
-![Alt-Текст](https://github.com/layhtman/LR6/tree/otchet/screenshots/s2.jpg?raw=true "5")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s2.jpg?raw=true "5")
 ---------
-![Alt-Текст](https://github.com/layhtman/LR6/tree/otchet/screenshots/s3.jpg?raw=true "6")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s3.jpg?raw=true "6")
 ---------
 ### История операций и последние изменения
-![Alt-Текст](https://github.com/layhtman/LR6/tree/otchet/screenshots/s4.jpg?raw=true "7-8")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s4.jpg?raw=true "7-8")
 ---------
 ### Слияние веток
-![Alt-Текст](https://github.com/layhtman/LR6/tree/otchet/screenshots/s5.jpg?raw=true "9")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s5.jpg?raw=true "9")
 ---------
 ### Удаление побочной ветки
-![Alt-Текст](https://github.com/layhtman/LR6/tree/otchet/screenshots/s6.jpg?raw=true "10")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s6.jpg?raw=true "10")
 ---------
 ### Еще несколько коммитов
-![Alt-Текст](https://github.com/layhtman/LR6/tree/otchet/screenshots/s7.jpg?raw=true "11")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s7.jpg?raw=true "11")
 ---------
 ### Откат коммита
-![Alt-Текст](https://github.com/layhtman/LR6/tree/otchet/screenshots/s8jpg?raw=true "12")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s8jpg?raw=true "12")
 -----------
 ### Создание ветки для отчета
-![Alt-Текст](https://github.com/layhtman/LR6/tree/otchet/screenshots/s9.jpg?raw=true "13")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s9.jpg?raw=true "13")
 ### Оформление README
-![Alt-Текст](https://github.com/layhtman/LR6/tree/otchet/screenshots/s10.jpg?raw=true "14")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s10.jpg?raw=true "14")
 ### История операций с сортировкой
-![Alt-Текст](https://github.com/layhtman/LR6/tree/otchet/screenshots/s11jpg?raw=true "15")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s11jpg?raw=true "15")
 ----------
 ### Выгрузка коммитов в онлайн
-![Alt-Текст](https://github.com/layhtman/LR6/tree/otchet/screenshots/s12.jpg?raw=true "16")
+![Alt-Текст](https://github.com/KartoxaFree/LR6/blob/otchet/screenshots/s12.jpg?raw=true "16")
 ---------
 ## Список используемых команд
 git config --global user.name (установка имени)
