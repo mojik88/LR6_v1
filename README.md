@@ -68,5 +68,5 @@ git log --pretty=format: "%h %ad %an %s"
 ```
 - Отправить локальные изменения в сетевое хранилище GitHub:
 ```
-get push -u origin
+git push -u origin
 ```
