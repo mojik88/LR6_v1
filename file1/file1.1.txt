@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 #include <iostream>
 
 using namespace std;
 
 int main() {
-	cout << "Hello, world!";
+	cout << "Hello, world!" << endl;
+	cout << 5 + 6;
 }
-=======
-Hello, C++
->>>>>>> 91ba5f85220c9d92eb6885d4d1e34c742a953e35
