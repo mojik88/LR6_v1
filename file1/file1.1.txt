@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 
 using namespace std;
@@ -5,3 +6,6 @@ using namespace std;
 int main() {
 	cout << "Hello, world!";
 }
+=======
+Hello, C++
+>>>>>>> 91ba5f85220c9d92eb6885d4d1e34c742a953e35
